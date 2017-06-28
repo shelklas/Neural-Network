@@ -1,0 +1,4 @@
+﻿  Neural Network.cpp
+x:\documents\visual studio 2017\projects\neural network run\neural network run\neural network.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  Neural Network Run.vcxproj -> x:\documents\visual studio 2017\Projects\Neural Network Run\Debug\Neural Network Run.exe
+  Neural Network Run.vcxproj -> x:\documents\visual studio 2017\Projects\Neural Network Run\Debug\Neural Network Run.pdb (Partial PDB)
